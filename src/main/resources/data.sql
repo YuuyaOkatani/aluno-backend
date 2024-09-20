@@ -1,0 +1,1 @@
+insert into aluno(name, active, period) values('joshua', true, 'tarde'); 
